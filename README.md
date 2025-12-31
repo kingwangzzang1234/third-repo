@@ -2,6 +2,8 @@
 
 Hello, I am from remote. And now, you are my words.
 
+[Go to google](https://www.google.com/)
+
 ## How to start
 
 `$ python fizzbuzz.py`
